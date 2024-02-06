@@ -1,0 +1,136 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/aymeric/Projects/EuroInformationResources/euroinformationresources/1BRC/VS2022/1BRChallenge/1BRChallengeTest/1BRChallengeTest.csproj": {}
+  },
+  "projects": {
+    "/Users/aymeric/Projects/EuroInformationResources/euroinformationresources/1BRC/VS2022/1BRChallenge/1BRChallenge/1BRChallenge.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/aymeric/Projects/EuroInformationResources/euroinformationresources/1BRC/VS2022/1BRChallenge/1BRChallenge/1BRChallenge.csproj",
+        "projectName": "1BRChallenge",
+        "projectPath": "/Users/aymeric/Projects/EuroInformationResources/euroinformationresources/1BRC/VS2022/1BRChallenge/1BRChallenge/1BRChallenge.csproj",
+        "packagesPath": "/Users/aymeric/.nuget/packages/",
+        "outputPath": "/Users/aymeric/Projects/EuroInformationResources/euroinformationresources/1BRC/VS2022/1BRChallenge/1BRChallenge/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/aymeric/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.312/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/aymeric/Projects/EuroInformationResources/euroinformationresources/1BRC/VS2022/1BRChallenge/1BRChallengeTest/1BRChallengeTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/aymeric/Projects/EuroInformationResources/euroinformationresources/1BRC/VS2022/1BRChallenge/1BRChallengeTest/1BRChallengeTest.csproj",
+        "projectName": "1BRChallengeTest",
+        "projectPath": "/Users/aymeric/Projects/EuroInformationResources/euroinformationresources/1BRC/VS2022/1BRChallenge/1BRChallengeTest/1BRChallengeTest.csproj",
+        "packagesPath": "/Users/aymeric/.nuget/packages/",
+        "outputPath": "/Users/aymeric/Projects/EuroInformationResources/euroinformationresources/1BRC/VS2022/1BRChallenge/1BRChallengeTest/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/aymeric/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/aymeric/Projects/EuroInformationResources/euroinformationresources/1BRC/VS2022/1BRChallenge/1BRChallenge/1BRChallenge.csproj": {
+                "projectPath": "/Users/aymeric/Projects/EuroInformationResources/euroinformationresources/1BRC/VS2022/1BRChallenge/1BRChallenge/1BRChallenge.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.8, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.8, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.312/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
